@@ -1,0 +1,3 @@
+C 255,200,160
+Error
+Problem found when handling paths.
