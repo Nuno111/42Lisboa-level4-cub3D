@@ -2,7 +2,7 @@
 
 The goal of this project is to learn about computer graphics mostly the raycasting technique similar to one used to create Wolftenstein 3D
 
-Cub3d is the largest and most complex project I had to create so far at 42, there are plenty of resources online so I won't be listing any here, as they not very hard to find an there are different techinques used to achieve the same goal.
+Cub3d is the largest and most complex project I had to create so far at 42, there are plenty of resources online so I won't be listing any here, as they not very hard to find and there are different techinques used to achieve the same goal.
 
 All code is written in accordance to the norminette version running at the time of project completion.
 
@@ -38,13 +38,13 @@ Note: in order to run this in linux you need to have Xming installed and have de
 
 ## Screenshots
 
-![Cube1](screenshots/cube1)
+![Cube1](screenshots/cube1.png)
 
 
-![Cube2](screenshots/cube2)
+![Cube2](screenshots/cube2.png)
 
 
-![Cube3](screenshots/cube3)
+![Cube3](screenshots/cube3.png)
 
 ## Contact
 
